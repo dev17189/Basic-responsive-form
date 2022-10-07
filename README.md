@@ -1,2 +1,2 @@
 # Basic-responsive-form
-This is a responsive form made by html and css 
+This is a responsive form made using HTML and CSS
